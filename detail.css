@@ -1,0 +1,32 @@
+@charset "UTF-8";
+.detail-wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: "Suit";
+}
+
+.detail-wrap img {
+  width: 100%;
+  margin-bottom: 24px;
+}
+
+.video-wrap {
+  max-width: 1200px;
+  text-align: center;
+  margin-top: 120px;
+  margin-bottom: 24px;
+}
+
+.video-wrap > video {
+  width: 100%;
+}
+
+.detail-wrap h4 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.detail-wrap p {
+  font-size: 1.8rem;
+}

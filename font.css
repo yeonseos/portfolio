@@ -1,0 +1,43 @@
+@charset "UTF-8";
+/* geist */
+@font-face {
+  font-family: "geist";
+  font-weight: 400; /* font 굵기 정의 */
+  /* 브라우저&디바이스 환경에 따른 font 파일 위치 정의 */
+  src: url(fonts/Geist-Regular.woff) format("woff"),
+    url(fonts/Geist-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: "geist";
+  font-weight: 500; /* font 굵기 정의 */
+  /* 브라우저&디바이스 환경에 따른 font 파일 위치 정의 */
+  src: url(fonts/Geist-Medium.woff) format("woff"),
+    url(fonts/Geist-Medium.woff2) format("woff2");
+}
+@font-face {
+  font-family: "geist";
+  font-weight: 600; /* font 굵기 정의 */
+  /* 브라우저&디바이스 환경에 따른 font 파일 위치 정의 */
+  src: url(fonts/Geist-Bold.woff) format("woff"),
+    url(fonts/Geist-Bold.woff2) format("woff2");
+}
+
+/* suit */
+@font-face {
+  font-family: "suit";
+  font-weight: 400; /* font 굵기 정의 */
+  /* 브라우저&디바이스 환경에 따른 font 파일 위치 정의 */
+  src: url(fonts/SUIT-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: "suit";
+  font-weight: 500; /* font 굵기 정의 */
+  /* 브라우저&디바이스 환경에 따른 font 파일 위치 정의 */
+  src: url(fonts/SUIT-Medium.woff2) format("woff2");
+}
+@font-face {
+  font-family: "suit";
+  font-weight: 600; /* font 굵기 정의 */
+  /* 브라우저&디바이스 환경에 따른 font 파일 위치 정의 */
+  src: url(fonts/SUIT-Bold.woff2) format("woff2");
+}
